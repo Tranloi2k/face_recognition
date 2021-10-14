@@ -1,4 +1,4 @@
-# face_recogniction
+# face_recognition
 
 I prepared a dataset with approximately 400 face images of 2 people (me and my girlfriend) divided into 2 classes. ClassLabels = [L,D]
 
