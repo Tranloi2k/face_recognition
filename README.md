@@ -2,7 +2,7 @@
 
 I prepared a dataset with approximately 400 face images of 2 people (me and my girlfriend) divided into 2 classes. ClassLabels = [L,D]
 
-after 100 epochs I have this result
+After train process with 100 epochs I have this result
 
 ![Figure_1](https://user-images.githubusercontent.com/87125486/137249322-01556cb1-436d-44a1-a10f-d6ad07a36b62.png)
 
