@@ -8,4 +8,5 @@ After train process with 100 epochs I have this result
 
 ![Screenshot (422)](https://user-images.githubusercontent.com/87125486/137249568-b93a63ec-b27f-4227-b250-d3a3d81dbbf8.png)
 
+![Screenshot (423)](https://user-images.githubusercontent.com/87125486/137260693-d214c8ea-8b2b-4f0f-a5c1-2999ee41ea17.png)
 
