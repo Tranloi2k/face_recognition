@@ -6,7 +6,7 @@ import cv2
 import os
 import dlib
 
-from numba import jit, cuda
+
 
 # construct the argument parse and parse the arguments
 ap = argparse.ArgumentParser()
